@@ -2,7 +2,7 @@
   "name": "nuxt_prac",
   "version": "1.0.0",
   "description": "My awesome Nuxt.js project",
-  "author": "kurihara",
+  "author": "kuso-dev",
   "private": true,
   "scripts": {
     "dev": "nuxt",

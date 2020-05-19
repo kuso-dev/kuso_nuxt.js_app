@@ -23,7 +23,7 @@ $quantity: 10
   margin: 0 auto
   width: 100%
   min-height: 100vh
-  background: url('/nuxt.js_practice/bg.jpg')
+  background: url('/kuso_nuxt.js_app/bg.jpg')
   background-size: cover
   background-color: rgba(0,0,0,0.5)
   background-blend-mode: darken
